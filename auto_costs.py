@@ -1,3 +1,4 @@
+# show how a change can be uploaded to git
 loan_pay = float(input("enter your monthly loan cost: "))
 insurance = float(input("enter your monthly insurance cost: "))
 gas = float(input("enter your monthly gas cost: "))
