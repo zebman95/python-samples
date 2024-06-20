@@ -1,0 +1,13 @@
+class FoodItem:
+   def __init__(self,name, weight, price, flat_price=True):
+      print("constructor called")
+      self.name = name
+      self.weight = weight
+      self.price = price
+      self.flat_price = flat_price
+
+
+
+
+food1 = FoodItem("hamburger",5.5,$7.50)
+

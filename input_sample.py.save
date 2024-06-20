@@ -1,0 +1,5 @@
+name = input("Enter a name:")
+theme = input("Enter a theme: ")
+
+print("\"" + name + "\" is having a")
+print("\"" + theme + "\" party!")
